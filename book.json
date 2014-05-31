@@ -1,0 +1,21 @@
+{
+    "title": "Railpower Dokümantasyonu",
+    "github": "railpowerdocs",
+    "githubHost": "https://github.com/railpower/",
+    "plugins": [
+        "disqus"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "railpowerdokumantasyon"
+        },
+        "fontSettings": {
+            "family": "sans"
+        }
+    },
+    "links": {
+        "about": null,
+        "issues": null,
+        "contribute": null
+    }
+}
